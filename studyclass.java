@@ -7,7 +7,6 @@ class function{
 public class studyclass {
     public static void main(String[] args) {
         function f=new function();
-        f.print();
-        
+        f.print(); 
     }
 }
