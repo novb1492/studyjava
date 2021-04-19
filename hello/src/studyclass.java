@@ -30,6 +30,7 @@ class minus extends plus{
     
 }
 class division extends minus{
+
     public void divi()
     {
         //d+=1;final 개체는 c++=const
