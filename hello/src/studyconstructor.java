@@ -3,8 +3,7 @@ package hello.src;
 import java.util.Scanner;
 
 class p{
-    int hp;
-    int attack;
+    int hp,attack;
     public void showhp()
     {
         System.out.println(this.hp+"hp");
