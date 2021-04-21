@@ -1,8 +1,13 @@
 package testclass;
 
 public class testclass{
-    public void printf()
+
+    int a,b;
+
+   
+   public void sum()
     {
-        System.out.println("my name is kim!");
+        System.out.println(this.a+this.b);
     }
+    public  void temp(){}
 }
