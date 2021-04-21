@@ -1,4 +1,3 @@
-package hello.src;
 class plus{
     int a,b;
     static int c=10;

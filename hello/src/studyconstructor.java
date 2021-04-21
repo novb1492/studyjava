@@ -1,4 +1,3 @@
-package hello.src;
 
 import java.util.Scanner;
 
