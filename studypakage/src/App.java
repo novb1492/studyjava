@@ -1,5 +1,5 @@
 
-import testclass.*;
+import testclass.*;///////import folder.속성;
 
 
 public class App {
