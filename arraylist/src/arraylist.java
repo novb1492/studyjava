@@ -15,7 +15,7 @@ public class arraylist {
         {
          b[i]=i;
         }
-        array.add(b);
+        array.add(b);////먼저넣는거 부터 앞자리 할당
         array.add(a);
 
        for(int ii=0;ii<array.size();ii++)
@@ -27,7 +27,7 @@ public class arraylist {
        }
      
            System.out.println(array);
-       
+       //공부
     }
 
        
