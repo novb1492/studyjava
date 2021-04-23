@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "studypakage/src",
         "hello/src",
-        "studypakage/src"
+        "arraylist/src"
     ]
 }
