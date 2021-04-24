@@ -22,8 +22,8 @@ public class arraylisttoarray {
         ///심플1
         for (int i=0; i < a.length; i++)
         {
-            a[i] = array.get(i).toString();////문자열integer를그냥 array로 할때는 이것이다
-            a2[i]=array2.get(i).intValue();////정수는 intvalue2021-4-23
+            a[i] = array.get(i);
+            a2[i]=array2.get(i);////////get으로 해주면된다
 
         }
         for(int i=0;i<a.length;i++)
