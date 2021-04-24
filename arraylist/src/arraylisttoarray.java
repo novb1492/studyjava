@@ -19,7 +19,7 @@ public class arraylisttoarray {
         int[] a2=new int[array2.size()];
         String[] a = new String[array.size()];
 
-
+        ///심플1
         for (int i=0; i < a.length; i++)
         {
             a[i] = array.get(i).toString();////문자열integer를그냥 array로 할때는 이것이다
