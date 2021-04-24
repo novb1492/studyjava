@@ -30,7 +30,8 @@ public class typetotype {
         
         for (int i=0; i < array3.size(); i++)
         {
-            array4.add(String.valueOf(array3.get(i)));
+            array4.add(String.valueOf(array3.get(i)));///이렇게도 가능하지만
+            array4.add(array3.get(i).toString());////////이게 더 편하다
         }
 
         for (int i=0; i < array4.size(); i++)
